@@ -1,3 +1,3 @@
 # Instapas
-pruebas de pascal con usos de recurcion. manejo de ramas en un arbol
+pruebas de pascal con usos de recursion. manejo de ramas en un arbol
 
